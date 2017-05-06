@@ -1,0 +1,23 @@
+In this post we will see how to use the AES (Advanced Encryption Standard) or Rijndael algorithm implementation from the Bouncy Castle API for J2ME platform. The example will use the AES lightweight engine to encrypt and decrypt a file managed by a J2ME (Midlet) application.
+
+The Bouncy Castle Crypto API for Java provides a lightweight cryptographic API that works with everything from the J2ME to the JDK 1.6 platform.
+
+The API is different for J2ME platform than the one for JDK platform. For example, the lightweight API has different implementations for the two platforms:
+
+In this post we will see how to use the AES (Advanced Encryption Standard) or Rijndael algorithm implementation from the Bouncy Castle API for J2ME platform. The example will use the AES lightweight engine to encrypt and decrypt a file managed by a J2ME (Midlet) application.
+
+The Bouncy Castle Crypto API for Java provides a lightweight cryptographic API that works with everything from the J2ME to the JDK 1.6 platform.
+
+The API is different for J2ME platform than the one for JDK platform. For example, the lightweight API has different implementations for the two platforms:
+
+In this post we will see how to use the AES (Advanced Encryption Standard) or Rijndael algorithm implementation from the Bouncy Castle API for J2ME platform. The example will use the AES lightweight engine to encrypt and decrypt a file managed by a J2ME (Midlet) application.
+
+The Bouncy Castle Crypto API for Java provides a lightweight cryptographic API that works with everything from the J2ME to the JDK 1.6 platform.
+
+The API is different for J2ME platform than the one for JDK platform. For example, the lightweight API has different implementations for the two platforms:
+
+In this post we will see how to use the AES (Advanced Encryption Standard) or Rijndael algorithm implementation from the Bouncy Castle API for J2ME platform. The example will use the AES lightweight engine to encrypt and decrypt a file managed by a J2ME (Midlet) application.
+
+The Bouncy Castle Crypto API for Java provides a lightweight cryptographic API that works with everything from the J2ME to the JDK 1.6 platform.
+
+The API is different for J2ME platform than the one for JDK platform. For example, the lightweight API has different implementations for the two platforms:
